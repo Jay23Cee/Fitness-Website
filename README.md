@@ -1,4 +1,6 @@
-This is a simple Fitness-Website.
-Just basic background and images used. 
+Fitness-Website.
+ 
+A website that allow gym user get inform about the classes a gym offers.
 
-Just adding more practice to my JS+CSS and Html
+Languages: HTML , CSS
+
